@@ -1,5 +1,7 @@
-/build/
-/target/
+### Rust ###
+build/
+target/
+Cargo.lock
 ### IntelliJ IDEA ###
 .idea
 *.iws
@@ -7,3 +9,4 @@
 *.ipr
 ### VS Code ###
 .vscode/
+
