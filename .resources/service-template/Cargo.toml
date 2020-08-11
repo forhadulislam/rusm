@@ -1,0 +1,9 @@
+[package]
+name = "rustTmpl"
+version = "0.1.0"
+authors = ["AuthorName <rusm@example.com>"]
+edition = "2020"
+
+# See more keys at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
